@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @konomi
-- 👀 I’m interested in software development
+- 👀 I’m interested in software development, teaching data science and programming
 - 🌱 I’m currently learning slowly
 - 💞️ I’m looking to collaborate on fun project
 - 📫 How to reach me ...
